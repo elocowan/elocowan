@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ethan Cowan
 
-- 🔭 I’m currently working on [CRUDy Posture] (https://github.com/elocowan/CRUDy-posture)
+- 🔭 I’m currently working on [CRUDy Posture](https://github.com/elocowan/CRUDy-posture)
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: ethan (dot) cowan (at) gmail.com
 
