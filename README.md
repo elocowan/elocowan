@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Ethan Cowan
+
+- 🔭 I’m currently working on [CRUDy Posture] (https://github.com/elocowan/CRUDy-posture)
+- 😄 Pronouns: he/him/his
+- 📫 How to reach me: ethan (dot) cowan (at) gmail.com
 
 <!--
 **elocowan/elocowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
