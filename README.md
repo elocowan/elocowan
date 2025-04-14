@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Ethan Cowan
+## Hi 👋 I'm Ethan Cowan
 
-My personal website is [ethancowan.com](https://ethancowan.com).
+Personal website: [ethancowan.com](https://ethancowan.com).
 
-My business website is [feldenpax.com](https://feldenpax.com).
+Business website: [feldenpax.com](https://feldenpax.com).
 
 <!--
 **elocowan/elocowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
