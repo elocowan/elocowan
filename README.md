@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ethan Cowan
+## Hi there 👋 I'm Ethan Cowan
 
 My personal website is [ethancowan.com](https://ethancowan.com).
 My business card website is [feldenpax.com](https://feldenpax.com).
