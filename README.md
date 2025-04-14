@@ -2,7 +2,7 @@
 
 My personal website is [ethancowan.com](https://ethancowan.com).
 
-My business card website is [feldenpax.com](https://feldenpax.com).
+My business website is [feldenpax.com](https://feldenpax.com).
 
 <!--
 **elocowan/elocowan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
